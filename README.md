@@ -7,7 +7,7 @@ You will create your own static website hosted on github today, so by the time y
 ### Instructions
   1. Fork the repository to your account.
   2. Clone the fork to your computer.
-  3. Edit the index.html page using the bootstrap [documentation](getbootstrap.com).
+  3. Edit the index.html page using the bootstrap [documentation](www.getbootstrap.com).
     - Some inspirational pieces: [easy](http://wrapbootstrap.com/preview/WB0DCP565), [medium](http://wrapbootstrap.com/preview/WB014P16F), and [hard](http://wrapbootstrap.com/preview/WB0265951).
     - You don't need to copy everything about these examples, just a general outline to follow
     - If you want to see your changes, use `python -m SimpleHTTPServer 8000` on the lab machines (more info can be found in the original article)
